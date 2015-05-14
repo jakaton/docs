@@ -2,6 +2,6 @@
 
 Documents with history and some references through the years
 
-For previous proyects check: proyects
+For previous projects check: proyects
 
 For some interesting links: links
